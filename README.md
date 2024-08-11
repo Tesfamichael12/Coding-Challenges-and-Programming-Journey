@@ -1,1 +1,1 @@
-# Programming-journey-
+# Coding Challenge and Programming Journey
